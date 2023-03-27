@@ -11,7 +11,7 @@
 ### <h2>Introducción</h2>
 Como estudiante del proyecto entre Alura Latam y Oracle, una vez finalizado cierto periodo de tiempo respecto a algunos temas se nos propuso un reto.
 
-El proyecto contiene un archivo en formato ejecutable ".jar". <h5>IMPORTANTE: el SE-java 15 para efecto del funcionamiento del mismo.</h5>
+El proyecto contiene un archivo en formato ejecutable ".jar". <h3>IMPORTANTE: el SE-java 15 para efecto del funcionamiento del mismo.</h3>
 
 El proyecto consta de un interfaz sencilla, propia de las funciones del JOptionPane.();
 
