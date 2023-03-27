@@ -11,6 +11,8 @@
 ### <h2>Introducción</h2>
 Como estudiante del proyecto entre Alura Latam y Oracle, una vez finalizado cierto periodo de tiempo respecto a algunos temas se nos propuso un reto.
 
+El proyecto contiene un archivo en formato ejecutable ".jar". IMPORTANTE: el SE-java 15 para efecto del funcionamiento del mismo.
+
 El proyecto consta de un interfaz sencilla, propia de las funciones del JOptionPane.();
 
 En referencia al código, este es bastante simple, con separaciones por conversor con la finalidad de que si se desea el código pueda ejecutarse de forma mas indepependiente a como lo seria si se incluye por ejemplo una funciono "eje" mediante herencia.
